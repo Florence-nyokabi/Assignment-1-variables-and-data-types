@@ -5,7 +5,7 @@ fun main(args: Array<String>) {
     var age: Byte = 19
     println(age)
 
-    var phoneNumber: Int = 792797189
+    var phoneNumber: String = "0792797189"
     println(phoneNumber)
 
     var weight: Float = 43.2F
